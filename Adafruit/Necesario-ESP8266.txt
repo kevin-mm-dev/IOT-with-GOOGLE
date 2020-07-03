@@ -1,0 +1,7 @@
+Preferencias->Gestor de URLs Adicinales-> http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+Herramientas->Placa->Gestor de Tarjetas
+Y buscamos en la lista  “esp8266 by ESP8266 Community“, esp8266
+Ahora en herramientas>placas, deben de estar las nuevas placas instaladas.
+Seleccionas Generic ESP8166 Module
